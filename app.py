@@ -30,8 +30,8 @@ Answer this question: {question}
 
 SELECT_SUPPORTED_DOCS = [
     {
-        "name": "Tata's Punch owner manual",
-        "link": "https://drive.google.com/file/d/1MsTt4_GVzNMPJY-XcT2aznXBPs9AokU4/view?usp=drive_link",
+        "name": "tata_punch_owner_manual.pdf",
+        "link": "https://b-public.s3.us-west-2.amazonaws.com/document-extractor/tata_punch_owner_manual/tata_punch_owner_manual.pdf",
     },
     {
         "name": "Raspberry_short_vers.pdf",
